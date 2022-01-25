@@ -1,4 +1,4 @@
-# Bootstrap-bBoilerplate
+# Bootstrap-Boilerplate
 
 ## Description
 A basic HTML5 Bootstrap template, including the required CSS and JS for Bootstrap to run.
